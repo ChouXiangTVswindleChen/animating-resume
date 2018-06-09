@@ -4,10 +4,10 @@
 
 
 
-## 使用方法
+## 本地使用方法 欢迎copy
 
 ``` bash
-git clone git@github.com:jirengu-inc/animating-resume.git
+git clone git@github.com:ChouXiangTVswindleChen/animating-resume.git
 cd animating-resume
 npm install
 npm run dev
@@ -28,3 +28,4 @@ npm run dev
 
 3. 开启 GitHub Pages 功能
 
+[我的简历](https://chouxiangtvswindlechen.github.io/animating-resume/public/)

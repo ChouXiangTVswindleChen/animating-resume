@@ -118,24 +118,38 @@ html{
         fullMarkdown: `梁思澄
 ----
 
-前端算法工程师。
+前端工程师。
 
 技能
 ----
-* JS HTML5 CSS3
-* NODE.js
-* Vue这项目就是Vue写的
-* Git
+* 熟练使用 DIV+CSS 布局的 HTML 代码编写，熟练手写符合 W3C 标准的代码，能够根据交互原型和 UI 设计图完整制作出网页
+* 熟悉 Javascript、css3 和 html5，且能熟练运用 JQuery Vue Element UI 框架实现网页常用特效，掌握面向对象编程思想 有大量和后端调试经验
+* 熟练使用Vue框架以及大量组件进行快速的开发
+* 有一定的移动端开发经验
 
 学习经历
 ----
- Duke University  CS SE
+Staffordshire University CS 
+主修课程：JAVA 编程、C 编程、计算机原理、Python、Russian、计算机网络
 
 工作经历
 ----
-
+0.Google London实习
+负责Google+的后台JAVA开发
 1.滴滴打车
+负责公司网站调查活动的 JAVA 开发
+负责公司公司后台 JfreeChart 实现 excel 文档导出
+完成调查系统代码的实现，编写代码注释和开发文档
 2.艺龙旅游网
+负责公司产品项目 Web 前端和部分后端功能设计、开发和实现。
+参与项目，根据客户需求进行前端开发。
+使用 JS 编写封装良好的前端交互组件，维护及优化网站前端页面性能
+
+个人项目
+----
+[Vue 实现一个个人预览简历编写](https://chouxiangtvswindlechen.github.io/Vue-resume/dist/)
+[仿网易云音乐带管理](https://github.com/ChouXiangTVswindleChen/couldMusic)
+[实现一个 Google Doodle]( https://github.com/ChouXiangTVswindleChen/Google-Doodle-)
 
 链接
 ----

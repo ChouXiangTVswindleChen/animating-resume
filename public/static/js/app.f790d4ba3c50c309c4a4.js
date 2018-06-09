@@ -241,21 +241,34 @@ Staffordshire University CS
 ----
 0.Google London实习
 
+Google旗下社交产品Google+后台开发
+
 1.滴滴打车
+
+负责公司客服投诉系统的 JAVA 开发;
 
 2.艺龙旅游网
 
+负责公司产品项目 Web 前端和部分后端功能设计、开发和实现。
+
+参与项目，根据客户需求进行前端开发。
+
+使用 JS 编写封装良好的前端交互组件，维护及优化网站前端页面性能。
+
+负责公司后台假接口品台迭代开发给前端团队暴露接口并部署
 
 个人项目
 ----
 [Vue 实现一个个人预览简历编写](https://chouxiangtvswindlechen.github.io/Vue-resume/dist/)
+
 [仿网易云音乐带管理](https://github.com/ChouXiangTVswindleChen/couldMusic)
+
 [实现一个 Google Doodle]( https://github.com/ChouXiangTVswindleChen/Google-Doodle-)
 
 链接
 ----
-
    [Github](https://github.com/ChouXiangTVswindleChen/)
+   
    [个人文章](https://juejin.im/user/5a6f1cb351882535a47d21ad/posts)
 
 
@@ -478,21 +491,34 @@ Staffordshire University CS
 ----
 0.Google London实习
 
+Google旗下社交产品Google+后台开发
+
 1.滴滴打车
+
+负责公司客服投诉系统的 JAVA 开发;
 
 2.艺龙旅游网
 
+负责公司产品项目 Web 前端和部分后端功能设计、开发和实现。
+
+参与项目，根据客户需求进行前端开发。
+
+使用 JS 编写封装良好的前端交互组件，维护及优化网站前端页面性能。
+
+负责公司后台假接口品台迭代开发给前端团队暴露接口并部署
 
 个人项目
 ----
 [Vue 实现一个个人预览简历编写](https://chouxiangtvswindlechen.github.io/Vue-resume/dist/)
+
 [仿网易云音乐带管理](https://github.com/ChouXiangTVswindleChen/couldMusic)
+
 [实现一个 Google Doodle]( https://github.com/ChouXiangTVswindleChen/Google-Doodle-)
 
 链接
 ----
-
    [Github](https://github.com/ChouXiangTVswindleChen/)
+   
    [个人文章](https://juejin.im/user/5a6f1cb351882535a47d21ad/posts)
 
 
@@ -773,4 +799,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ],[12]);
-//# sourceMappingURL=app.ae0b95e6d75eacbd758a.js.map
+//# sourceMappingURL=app.f790d4ba3c50c309c4a4.js.map

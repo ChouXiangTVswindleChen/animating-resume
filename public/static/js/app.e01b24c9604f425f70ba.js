@@ -223,7 +223,7 @@ html{
       fullMarkdown: `梁思澄
 ----
 
-前端算法工程师。
+前端工程师。
 
 技能
 ----
@@ -753,4 +753,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ],[12]);
-//# sourceMappingURL=app.2a019d8716557160763b.js.map
+//# sourceMappingURL=app.e01b24c9604f425f70ba.js.map

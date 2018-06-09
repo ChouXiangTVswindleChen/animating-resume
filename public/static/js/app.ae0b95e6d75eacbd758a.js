@@ -240,15 +240,11 @@ Staffordshire University CS
 工作经历
 ----
 0.Google London实习
-负责Google+的后台JAVA开发
+
 1.滴滴打车
-负责公司网站调查活动的 JAVA 开发
-负责公司公司后台 JfreeChart 实现 excel 文档导出
-完成调查系统代码的实现，编写代码注释和开发文档
+
 2.艺龙旅游网
-负责公司产品项目 Web 前端和部分后端功能设计、开发和实现。
-参与项目，根据客户需求进行前端开发。
-使用 JS 编写封装良好的前端交互组件，维护及优化网站前端页面性能
+
 
 个人项目
 ----
@@ -481,15 +477,11 @@ Staffordshire University CS
 工作经历
 ----
 0.Google London实习
-负责Google+的后台JAVA开发
+
 1.滴滴打车
-负责公司网站调查活动的 JAVA 开发
-负责公司公司后台 JfreeChart 实现 excel 文档导出
-完成调查系统代码的实现，编写代码注释和开发文档
+
 2.艺龙旅游网
-负责公司产品项目 Web 前端和部分后端功能设计、开发和实现。
-参与项目，根据客户需求进行前端开发。
-使用 JS 编写封装良好的前端交互组件，维护及优化网站前端页面性能
+
 
 个人项目
 ----
@@ -781,4 +773,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ],[12]);
-//# sourceMappingURL=app.39247a5451c5e4096fb6.js.map
+//# sourceMappingURL=app.ae0b95e6d75eacbd758a.js.map

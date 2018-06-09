@@ -129,7 +129,11 @@ html{
 
 学习经历
 ----
+<<<<<<< HEAD
 Staffordshire University CS 
+=======
+ Duke University  CS SE
+>>>>>>> 14fb9c9eed06b14e7728511dddb2f322d6e853d4
 
 工作经历
 ----
